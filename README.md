@@ -1,3 +1,5 @@
+# WARNING: This extension is not more maintained
+
 Yii2-Start admin module.
 =======================
 This module provide admin managing system for your yii2 application.
